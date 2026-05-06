@@ -21,10 +21,10 @@ Este sistema fue desarrollado como parte de mi residencia profesional, enfocado 
 ## 📷 Capturas
 
 ### Login
-![Login](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Dshboard.png)
+![Login](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Login.png)
 
 ### Dashboard
-![Dashboard](AQUI_VA_LINK)
+![Dashboard](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Dshboard.png)
 
 ### Registro de Comisiones
 ![Comisiones](AQUI_VA_LINK)
