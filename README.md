@@ -30,7 +30,7 @@ Este sistema fue desarrollado como parte de mi residencia profesional, enfocado 
 ![Comisiones](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Registro%20de%20viaticos.png)
 
 ### Comprobación de Viáticos
-![Viaticos](AQUI_VA_LINK)
+![Viaticos](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Comprobacion%20de%20viaticos.png)
 
 ### Listado comprobaciones
 ![Tabla](AQUI_VA_LINK)
