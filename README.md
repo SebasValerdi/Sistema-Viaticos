@@ -27,7 +27,7 @@ Este sistema fue desarrollado como parte de mi residencia profesional, enfocado 
 ![Dashboard](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Dshboard.png)
 
 ### Registro de Comisiones
-![Comisiones](AQUI_VA_LINK)
+![Comisiones](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Registro%20de%20viaticos.png)
 
 ### Comprobación de Viáticos
 ![Viaticos](AQUI_VA_LINK)
