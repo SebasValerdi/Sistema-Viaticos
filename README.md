@@ -21,7 +21,7 @@ Este sistema fue desarrollado como parte de mi residencia profesional, enfocado 
 ## 📷 Capturas
 
 ### Login
-![Login](AQUI_VA_LINK)
+![Login](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Dshboard.png)
 
 ### Dashboard
 ![Dashboard](AQUI_VA_LINK)
