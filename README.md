@@ -33,7 +33,7 @@ Este sistema fue desarrollado como parte de mi residencia profesional, enfocado 
 ![Viaticos](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Comprobacion%20de%20viaticos.png)
 
 ### Listado comprobaciones
-![Tabla](AQUI_VA_LINK)
+![Tabla](https://github.com/SebasValerdi/Sistema-Viaticos/blob/main/Registro%20de%20comprobaciones.png)
 
 ## Autor
 Sebastián Valerdi López
