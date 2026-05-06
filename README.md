@@ -18,5 +18,22 @@ Sistema web desarrollado para el control y gestion de viáticos en comisiones de
 ## Descripción
 Este sistema fue desarrollado como parte de mi residencia profesional, enfocado en resolver la gestión administrativa de viáticos, automatizando cálculos y seguimiento documental.
 
+## 📷 Capturas
+
+### Login
+![Login](AQUI_VA_LINK)
+
+### Dashboard
+![Dashboard](AQUI_VA_LINK)
+
+### Registro de Comisiones
+![Comisiones](AQUI_VA_LINK)
+
+### Comprobación de Viáticos
+![Viaticos](AQUI_VA_LINK)
+
+### Listado comprobaciones
+![Tabla](AQUI_VA_LINK)
+
 ## Autor
 Sebastián Valerdi López
